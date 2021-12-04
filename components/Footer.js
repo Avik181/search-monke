@@ -2,7 +2,7 @@ import { GlobeIcon } from "@heroicons/react/solid"
 
 function Footer() {
     return (
-        <footer className="grid w-full divide-y-[1px] divide-gray-300 bg-gray-100 text-sm
+        <footer className="grid w-full divide-y-[1px] divide-gray-300 bg-gray-900 text-sm
         text-gray-500">
             <div className="px-8 py-3">
                 <a href="https://github.com/Avik181" className="hover:text-white">My Github</a>
