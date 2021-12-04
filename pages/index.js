@@ -57,7 +57,7 @@ export default function Home() {
 
         <div className="flex flex-col width-1/2 space-y-2 justify-center mt-8
         sm:space-y-0 sm:flex-row sm:space-x-4">
-          <button onClick={search} className="btn">Wow, Such Search</button>
+          <button onClick={search} className="btn">Such Search</button>
           <button onClick={search} className="btn">Much Results</button>
         </div>
       </form>
